@@ -1,0 +1,17 @@
+﻿@model Dto.Test.TestDto
+
+<h2>Test</h2>
+<form asp-action="Test" method="post">
+    @foreach (var question in Model.Questions)
+    {
+        <fieldset>
+            <div id="question">@question.Question</div>
+            <input id="Q1" type="radio" value="@question.Answer1, @question.CorrectAnswer" name="@question.Question"/> <label for="Q1">@question.Answer1</label><br>
+            <input id="Q2" type="radio" value="@question.Answer2, @question.CorrectAnswer" name="@question.Question"/> <label for="Q2">@question.Answer2</label><br>
+            <input id="Q3" type="radio" value="@question.Answer3, @question.CorrectAnswer" name="@question.Question"/> <label for="Q3">@question.Answer3</label><br>
+            <input type="hidden" value="@question.CorrectAnswer"/>
+        </fieldset>
+        <br>
+    }
+    <input type="submit" value="Submit"/>
+</form>

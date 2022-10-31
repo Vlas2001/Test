@@ -1,0 +1,5 @@
+C:\Users\vlask\RiderProjects\TestApplication\Context\obj\Debug\net5.0\Context.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\TestApplication\Context\obj\Debug\net5.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\TestApplication\Context\obj\Debug\net5.0\Context.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\TestApplication\Context\obj\Debug\net5.0\Context.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\TestApplication\Context\obj\Debug\net5.0\Context.csproj.CoreCompileInputs.cache

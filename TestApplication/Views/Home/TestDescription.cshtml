@@ -1,0 +1,13 @@
+﻿
+<h2>This is simple test so i can get this job</h2><br>
+<h5>Here is short description about this test</h5><br>
+<form asp-action="Test" method="get">
+    <input type="checkbox" value="press" name="press" onchange="changeDisabledState()"/>
+    <input id="button" type="submit" value="Press" disabled/>
+</form>
+
+<script>
+    function changeDisabledState(){
+        document.getElementById('button').disabled = document.getElementById('button').disabled!==true;
+    }
+</script>

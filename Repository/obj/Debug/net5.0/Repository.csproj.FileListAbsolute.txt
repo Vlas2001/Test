@@ -1,0 +1,17 @@
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\Repository.deps.json
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\Repository.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\ref\Repository.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\Repository.pdb
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\DatabaseContext.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\Models.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\DatabaseContext.pdb
+C:\Users\vlask\RiderProjects\TestApplication\Repository\bin\Debug\net5.0\Models.pdb
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\ref\Repository.dll
+C:\Users\vlask\RiderProjects\TestApplication\Repository\obj\Debug\net5.0\Repository.pdb

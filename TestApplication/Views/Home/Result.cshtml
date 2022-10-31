@@ -1,0 +1,23 @@
+﻿@model Dto.Test.UserAnswersDto
+
+<h2>Test results</h2><br>
+<ul class="list-group">
+    @foreach (var item in Model.Answers)
+    {
+        <li class="d-flex justify-content-between align-items-center">
+            @if (item.Item1.Trim()==item.Item2.Trim())
+            {
+                <div>
+                    @(Model.Answers.IndexOf(item)+1) Question: Your answer correct (@item.Item1)
+                </div>
+            }
+            else
+            {
+                <div>
+                    @(Model.Answers.IndexOf(item)+1) Question: Your answer incorrect (@item.Item1). Correct answer: @item.Item2
+                </div>
+            }
+        </li>
+    }
+</ul>
+<br><a asp-action="Index" asp-controller="Home">Back to Home Page</a>
